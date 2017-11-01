@@ -1,2 +1,2 @@
 # goprojects
-All projects written in Go programming language.
+All og my projects written in Go programming language.
